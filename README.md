@@ -1,3 +1,3 @@
 # SVM-Gaussian-RBF-Kernel
-Designed kernel SVM using gaussian kernel and quadprog to solve quadratic optimization in order to classify non-lineraly seperable complex regions.
+Designed kernel SVM using Gaussian RBF kernel and quadprog to solve quadratic optimization in order to classify non-lineraly seperable complex regions.
 This is built from scratch, without using any libraries.
