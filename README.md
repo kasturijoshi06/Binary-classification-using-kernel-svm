@@ -1,3 +1,2 @@
 # Binary-classification-using-kernel-svm
-Designed kernel SVM using Gaussian RBF kernel and quadprog to solve quadratic optimization in order to classify non-lineraly seperable complex regions.
-This is built from scratch, without using any libraries.
+Designed an SVM model using Gaussian or Radial Basis Function kernel to perform binary classification on non-lineraly seperable data. The quadratic optimization was performed using the quadprog module.This model was designed without using any existing machine learning libraries. 
